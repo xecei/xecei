@@ -1,5 +1,13 @@
 <h4 align="center"><samp> Hi there 👋  welcome to my Github! I'm an Software Engineer focusing on React things ✨ </samp></h4>
 
+<p align="center">
+  <samp>
+    <a href="#">me</a> .
+    <a href="#">blog</a> .
+    <a href="#">projects</a> .
+    <a href="https://instagram.com">instagram</a> .
+  </samp>
+</p>
 
 <p align="center"><samp>
 Check out my repos ⬇️  
