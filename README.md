@@ -1,4 +1,10 @@
-### Hi there 👋
+<h4 align="center"><samp> Hi there 👋  welcome to my Github! I'm an Software Engineer focusing on React things ✨ </samp></h4>
+
+
+<p align="center"><samp>
+Check out my repos ⬇️  
+  </samp>
+</p>
 
 <!--
 **xecei/xecei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
