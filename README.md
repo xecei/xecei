@@ -1,7 +1,7 @@
 <h4 align="center"><samp> Hi there 👋 I'm an Software Engineer focusing on React things ✨ </samp></h4>
 <br />
 <div>
-  <img align="left" src="https://i.redd.it/h7dae4o0uk461.jpg"  width="320" /> 
+  <img align="left" src="https://i.redd.it/h7dae4o0uk461.jpg"  width="220" /> 
   
   ```
   Name: Dmitry
