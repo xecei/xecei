@@ -10,8 +10,7 @@
 </p>
 
 <p align="center"><samp>
-Check out my repos ⬇️  
-  </samp>
+  Check out my repos ⬇️  
 </p>
 
 <!--
