@@ -3,13 +3,13 @@
 <div>
   <img align="left" src="https://i.redd.it/h7dae4o0uk461.jpg"  width="220" /> 
   
-  ```
+  ```js
   Name: Xecei
   Pronouns: He/Him
   Frameworks: React, Angular
   Languages: JavaScript, TypeScript
-  Hobbies: Traveling, horse riding, diving
-  Learning: Shopify, Three.js
+  Hobbies: Traveling, Horse Riding, Diving
+  Learning: Shopify, Threejs
   ```
   
   <p align="center">
