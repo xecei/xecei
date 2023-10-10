@@ -9,8 +9,14 @@
   </samp>
 </p>
 
+
+<p align="center">
+  <img width="180" src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" />
+</p>
+
 <p align="center"><samp>
-  Check out my repos ⬇️  
+  Check out my repos ⬇️ 
+</samp>
 </p>
 
 <!--
