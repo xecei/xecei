@@ -2,10 +2,10 @@
 
 <p align="center">
   <samp>
-    <a href="#">me</a> .
-    <a href="#">blog</a> .
-    <a href="#">projects</a> .
-    <a href="https://instagram.com">instagram</a> .
+    <a href="#">me</a> ꞏ
+    <a href="#">blog</a> ꞏ
+    <a href="#">projects</a> ꞏ
+    <a href="https://instagram.com">instagram</a>
   </samp>
 </p>
 
