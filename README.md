@@ -1,4 +1,4 @@
-<h4 align="center"><samp> Hi there 👋  welcome to my Github! I'm an Software Engineer focusing on React things ✨ </samp></h4>
+<h4 align="center"><samp> Hi there 👋 I'm an Software Engineer focusing on React things ✨ </samp></h4>
 
 <p align="center">
   <samp>
