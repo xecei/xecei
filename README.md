@@ -3,7 +3,7 @@
 <div>
   <img align="left" src="https://i.redd.it/h7dae4o0uk461.jpg"  width="220" /> 
   
-  ```js
+  ```c
   Name: Xecei
   Pronouns: He/Him
   Frameworks: React, Angular
