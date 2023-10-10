@@ -1,22 +1,31 @@
 <h4 align="center"><samp> Hi there 👋 I'm an Software Engineer focusing on React things ✨ </samp></h4>
+<br />
+<div>
+  <img align="left" src="https://i.redd.it/h7dae4o0uk461.jpg"  width="320" /> 
+  
+  ```
+  Name: Dmitry
+  Pronouns: He/Him
+  Frameworks: React, Angular
+  Languages: JavaScript, TypeScript
+  Hobbies: Traveling, horse riding, diving
+  Learning: Shopify, Three.js
+  ```
+  
+  <p align="center">
+    <samp>
+      <a href="#">me</a> ꞏ
+      <a href="#">blog</a> ꞏ
+      <a href="#">projects</a> ꞏ
+      <a href="https://instagram.com">instagram</a>
+    </samp>
+  </p>
+</div>
 
-<p align="center">
+<p align="center" display="block">
   <samp>
-    <a href="#">me</a> ꞏ
-    <a href="#">blog</a> ꞏ
-    <a href="#">projects</a> ꞏ
-    <a href="https://instagram.com">instagram</a>
+    Check out my repos ⬇️ 
   </samp>
-</p>
-
-
-<p align="center">
-  <img width="180" src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" />
-</p>
-
-<p align="center"><samp>
-  Check out my repos ⬇️ 
-</samp>
 </p>
 
 <!--
